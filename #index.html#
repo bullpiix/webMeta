@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>maria</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="htitle">mari</div>
+        <div class="hhelp">mari</div>
+        <div class="hitem">
+            <div class="hiItem">mq</div>
+            <div class="hiItem">mq</div>
+            <div class="hiItem">mq</div>
+        </div>
+    </div> 
+    <div class="main">
+        <div class="fachada">portada</div>
+    </div>
+    <div class="master">
+        <div class="helper">por</div>
+        <div class="mainx">
+            <div class="caja1">
+                <div class="caja2">maria</div>
+                <div class="caja2">maria</div>
+                <div class="caja2">maria</div>
+            </div>
+	    
+            <div class="caja1">
+                <div class="caja2">maria</div>
+                <div class="caja2">maria</div>
+                <div class="caja2">maria</div>
+            </div>
+            <div class="caja1">
+                <div class="caja2">maria</div>
+                <div class="caja2">maria</div>
+                <div class="caja2">maria</div>
+            </div>
+        </div>
+        <div class="helper">por</div>
+    </div>
+    <div class="final">
+        <div class="fin1">
+            <div class="fin2">maria</div>
+            <div class="helf1">
+                <div class="if3">vi</div>
+                <div class="hp3">vi</div>
+                <div class="if3">vi</div>
+            </div>
+            <div class="fin2">maria</div>
+        </div>
+        <div class="fin1">
+            <div class="fin2">maria</div>
+            <div class="helf1">
+                <div class="if3">vi</div>
+                <div class="hp3">vi</div>
+                <div class="if3">vi</div>
+            </div>
+            <div class="fin2">maria</div>
+        </div>
+    </div>
+</body>
+</html>
